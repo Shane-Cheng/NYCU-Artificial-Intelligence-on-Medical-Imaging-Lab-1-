@@ -23,7 +23,7 @@ Fine tune some hyperparameters
 See performance and discussion
 
 
-#for running code
+For running code:
 
 Modify your file path in lines 257 and 258.
 

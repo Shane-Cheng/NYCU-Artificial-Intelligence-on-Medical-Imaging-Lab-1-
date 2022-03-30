@@ -1,0 +1,10 @@
+# data rescource:
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+#others
+https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.MultiStepLR.html
+https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.ExponentialLR.html
+https://www.stackvidhya.com/plot-confusion-matrix-in-python-and-why/
+https://stackoverflow.com/questions/54207410/how-to-split-resnet50-model-from-top-as-well-as-from-bottom
+https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+https://www.ncbi.nlm.nih.gov/books/NBK430749/

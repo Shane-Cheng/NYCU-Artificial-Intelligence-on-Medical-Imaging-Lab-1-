@@ -15,9 +15,13 @@ As we can see, the normal images are fewer than pneumonia images.
 Workflow:
 
 Writing our own data loader
+
 Run different models
+
 Fine tune some hyperparameters
+
 See performance and discussion
+
 
 #for running code
 
